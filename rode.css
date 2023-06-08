@@ -1,0 +1,139 @@
+.imgLogo{
+height:50px;
+width:100px;
+}
+#nav{
+color:black;
+}
+.bg{
+    background-image:url('StreamerX-Header-right copy.jpg');
+    background-size:cover;
+    height:100vh;
+}
+.streamerLogo{
+
+    height:200px;
+width:450px;
+}
+
+.heading{
+    font-family:"montserrat";
+font-weight:normal;
+font-size:32px;
+}
+.paragraph{
+
+    font-family:"montserrat";
+    font-weight:normal;
+    font-size:18px;
+    color:#484848;
+}
+.para1{
+    font-weight:500;
+    font-size:24px;
+    color:#c9a659;
+} 
+.button{
+    font-weight: normal;
+    font-size:14px;
+    background-color:#c9a659;
+    border-radius:20px;
+    padding:12px;
+    border-width:0px;
+    color:white;
+    height:40px;
+    width:120px;
+    margin-left:60px;
+    padding-bottom:20px;
+}
+.bg1{
+    background-image:url('DUO-Change-over-01.jpg');
+    background-size:cover;
+    height:100vh;
+}
+.heading1{
+    font-family:"montserrat";
+font-weight:normal;
+font-size:32px;
+color:white;
+}
+.Bblack{
+    background-color: black;
+}
+.bg2{
+    
+        background-image:url('stand.jpg');
+        background-size:cover;
+        height:100vh;
+    
+}
+.bg3{
+    
+    background-image:url('mike.jpg');
+    background-size:cover;
+    height:100vh;
+
+}
+.bg4{
+    
+    background-image:url('front.jpg');
+    background-size:cover;
+    height:100vh;
+
+}
+.bg5{
+    
+    background-image:url('header.jpg');
+    background-size:cover;
+    height:100vh;
+
+}
+.para2{
+    font-weight:bold;
+    font-size:30px;
+    color:#c9a659;
+} 
+.para3{
+    font-weight:bold;
+    font-size:30px;
+    color:#484848;
+} 
+.para4{
+    font-weight:bold;
+    font-size:80px;
+    color:#ffffff;
+} 
+.b1{
+    background-image:url('i1.png');
+   width:90vw;
+}
+.b2{
+    background-image:url('i2.jpg');
+   width:90vw;
+}
+.b3{
+    background-image:url('i5.png');
+   width:90vw;
+}
+.b4{
+    background-image:url('i6.png');
+   width:90vw;
+}
+.h2{
+    font-family:"montserrat";
+font-weight:normal;
+font-size:20px;
+color:black;
+}
+.button1{
+    font-weight: normal;
+    font-size:14px;
+    background-color:#c9a659;
+    border-radius:20px;
+    padding:12px;
+    border-width:0px;
+    color:white;
+  
+    margin-left:60px;
+    padding-bottom:20px;
+}
